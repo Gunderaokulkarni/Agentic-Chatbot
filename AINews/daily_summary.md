@@ -1,0 +1,24 @@
+# Daily AI News Summary
+
+### 2026-02-25
+- [India's IT sector is expected to grow 6.1% year-on-year to $315 billion in the fiscal ending on March 31, driven by global IT services and rising AI investments](https://www.reuters.com/world/india/indias-technology-sector-grow-61-fiscal-2026-industry-body-says-2026-02-24)
+- [IT stocks, including Infosys, HCLTech, and TCS, rebounded after a crash due to concerns over AI disruption](https://www.indiatoday.in/business/market/story/infosys-hcltech-tcs-other-it-stocks-rebound-after-crash-key-reasons-explained-2873961-2026-02-25)
+- [Stock market rally extends, with Asian equities climbing to a record, driven by a rebound in software stocks and AI investments](https://www.bloomberg.com/news/articles/2026-02-24/stock-market-today-dow-s-p-live-updates)
+- [Most teens believe their peers are using AI to cheat in school, with about half using AI to help with schoolwork](https://www.washingtonpost.com/technology/2026/02/24/pew-teens-ai-cheating-school/)
+- [Abu Dhabi's giant AI bet and Asia's breakaway from global AI gloom, with a focus on chipmakers and semiconductor foundries](http://investing.businessweek.com/news/articles/2026-02-24/citrini-s-dystopia-fuels-asia-s-breakaway-from-global-ai-gloom?srnd=homepage-americas)
+- [China startups are driving the future of global robotaxi deployment, with companies like WeRide.ai leading the charge](https://www.forbes.com/sites/viviantoh/2026/02/24/china-startups-is-driving-the-future-of-global-robotaxi-deployment/)
+
+### 2026-02-24
+- [India's technology sector is forecast to surpass $300 billion in revenue for the first time, driven by global IT services and AI investments](https://www.reuters.com/world/india/indias-technology-sector-grow-61-fiscal-2026-industry-body-says-2026-02-24)
+- [Vishal Sikka, founder and CEO of Vianai Systems, urges the global workforce to learn AI amid rapid industry changes](https://www.ndtvprofit.com/technology/learn-ai-learn-learn-learn-vishal-sikka-issues-urgent-call-to-tech-workforce-11128250)
+- [India's IT sector added only about 2,000 net jobs in FY26, with employment growth remaining positive despite the transition to AI-led delivery models](https://www.moneycontrol.com/artificial-intelligence/tech-workforce-grows-2-3-as-ai-drives-non-linear-employment-trend-nasscom-article-13841346.html)
+- [Stripe and PayPal have joined a $16.6 million funding round for Indian cross-border payments business Xflow](https://www.finextra.com/newsarticle/47344/stripe-and-paypal-back-indias-xflow)
+- [The artificial intelligence-driven "scare trade" showed signs of cooling as Asian shares and US equity-index futures advanced](https://www.bloomberg.com/news/articles/2026-02-23/stock-market-today-dow-s-p-live-updates)
+- [Murata Manufacturing's shares gap up, with the company's AI infrastructure buildout and data center stock momentum being closely watched](https://www.marketbeat.com/instant-alerts/murata-manufacturing-otcmktsmraay-shares-gap-up-time-to-buy-2026-02-24/)
+- [Citrini Research's vision of a dystopian future shaped by AI is reinforcing bets that Asia will emerge as a winner of the AI disruption](http://investing.businessweek.com/news/articles/2026-02-24/citrini-s-dystopia-fuels-asia-s-breakaway-from-global-ai-gloom?srnd=homepage-americas)
+- [AWS AI technology reframes live video for TikTok, Reels, and YouTube, using context-aware reformatting and vertical video cropping](https://www.mediapost.com/publications/article/413044/aws-ai-technology-reframes-live-video-for-tiktok.html)
+- [A majority of American teenagers believe that their peers are using AI to cheat in school, with over 1 in 10 teens using AI for emotional support or advice](https://www.washingtonpost.com/technology/2026/02/24/pew-teens-ai-cheating-school/)
+- [AI is becoming a valuable tool in medicine, with doctors and patients alike embracing its potential to improve healthcare outcomes](https://www.washingtonpost.com/opinions/2026/02/24/health-care-ai-doctors-chatbots/)
+- [Anthropic has unveiled 10 new ways for business customers to plug in its AI technology, weeks after other releases sparked an aggressive selloff in traditional software company shares](https://www.reuters.com/business/finance/anthropic-touts-new-ai-tools-weeks-after-legal-plug-in-spurred-market-rout-2026-02-24/)
+- [The Technion Israel Institute of Technology was ranked the best university in computer science and AI research in Israel and Europe, according to CSRankings](https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-887666)
+- [Hackers are increasingly exploiting AI to circumvent cybersecurity and steal data, with an 89% year-on-year increase in AI-enabled cyberattacks](https://www.telecoms.com/security/crowdstrike-sees-89-rise-in-ai-enabled-cyberattacks)
